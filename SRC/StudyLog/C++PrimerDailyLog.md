@@ -1,0 +1,1 @@
+/*This is a Log document template, generally write down what we study everyday, feal free to edit it for you specific use*/
